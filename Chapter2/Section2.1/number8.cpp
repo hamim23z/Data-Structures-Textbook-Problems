@@ -25,6 +25,7 @@ class throttle {
 /*
 Below is the implementation file and the answer to number 8
 
+// HERE I AM IMPLEMENTING THE MEMBER FUNCTION CALLED MORETHANHALF()
 bool throttle::morethanhalf() const {
     return ((flow) > 0.5);
 }
